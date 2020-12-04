@@ -1,3 +1,5 @@
+![https://github-readme-stats.vercel.app/api?username=cr4r&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=cr4r&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
+
 # Donasi
 | Type                          | To |
 | --------------------------------- | ----------- |
@@ -14,6 +16,3 @@
 | Monero           (XMR)   | 84Zpdi5MEb89tGMt9EVZVieRgW2cDKU5r6uKRiTu7F6QdK3TxKWzkW7J3rX6DqEcjMipVEzzxmJTkFmk2GabwARL9erh6P7
 | Ripple           (XRP)   | rwWr7KUZ3ZFwzgaDGjKBysADByzxvohQ3C
 | Zcash            (ZEC)   | t1cr5zbd6JCGXWN1Gm9AJo8jZFAPuUwe12f
-
-
-![https://github-readme-stats.vercel.app/api?username=cr4r&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=cr4r&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
