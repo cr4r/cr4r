@@ -9,14 +9,14 @@ jobs:
   build:
 
 
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
 
     steps:
 
     - name: Download
 
-      run: Invoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.deb -OutFile ngrok.zip
+      run: Invoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
 
     - name: Extract
 
